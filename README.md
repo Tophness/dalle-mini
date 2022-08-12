@@ -1,6 +1,11 @@
-# DALL·E Mini with GUI
+# DALL·E Mini GUI
 
 <img src="https://github.com/Tophness/dalle-mini-GUI/raw/main/img/sc.jpg?raw=true">
+
+# About
+
+The original dall-e mini requires linux and runs on a web server.
+This one gives you a desktop app you can run on Windows.
 
 ## How to use it?
 
