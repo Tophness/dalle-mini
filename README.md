@@ -30,7 +30,7 @@ pip install https://whls.blob.core.windows.net/unstable/cuda111/jaxlib-0.3.14+cu
 pip install dalle-mini
 pip install git+https://github.com/patil-suraj/vqgan-jax.git
 ```
-3. Start the GUI with python __main__.py
+3. Start the GUI with ```python __main__.py```
 
 You can experiment with the pipeline step by step through our [`inference pipeline notebook`](tools/inference/inference_pipeline.ipynb)
 
