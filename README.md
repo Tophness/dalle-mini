@@ -19,7 +19,7 @@ Refer to our reports:
 ### Dependencies Installation
 
 For inference only, use `pip install dalle-mini`.
-If installing via Anaconda on Windows the original instructions don't work.
+The original instructions won't work for Windows or Anaconda environments.
 Do the following instead:
 1. Install CUDA v11.4 and CUDNN v8.2.
 2. Execute the following in a conda shell:
