@@ -19,6 +19,7 @@ Refer to our reports:
 ### Dependencies Installation
 
 For inference only, use `pip install dalle-mini`.
+
 The original instructions won't work for Windows or Anaconda environments.
 
 Do the following instead:
