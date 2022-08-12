@@ -1,6 +1,6 @@
 # DALL·E Mini with GUI
 
-<a href="https://www.craiyon.com/"><img src="https://www.craiyon.com/thumbnail.png" width="300"></a>
+<img src="!(https://github.com/Tophness/dalle-mini-GUI/blob/main/img/sc.jpg?raw=true)" width="300">
 
 ## How to use it?
 
