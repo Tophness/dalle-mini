@@ -1,6 +1,6 @@
 # DALL·E Mini with GUI
 
-<img src="!(https://github.com/Tophness/dalle-mini-GUI/blob/main/img/sc.jpg?raw=true)" width="300">
+<img src="https://github.com/Tophness/dalle-mini-GUI/raw/main/img/sc.jpg?raw=true" width="300">
 
 ## How to use it?
 
