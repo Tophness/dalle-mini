@@ -26,7 +26,7 @@ Do the following instead:
 conda create --name dallemini python=3.7
 conda activate dallemini
 pip install https://whls.blob.core.windows.net/unstable/cuda111/jaxlib-0.3.14+cuda11.cudnn82-cp37-none-win_amd64.whl
-pip install dalle-mini && pip install git+https://github.com/patil-suraj/vqgan-jax.git"
+pip install dalle-mini && pip install git+https://github.com/patil-suraj/vqgan-jax.git
 3. Start the GUI with python __main__.py
 
 You can experiment with the pipeline step by step through our [`inference pipeline notebook`](tools/inference/inference_pipeline.ipynb)
