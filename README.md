@@ -1,6 +1,6 @@
 # DALL·E Mini GUI
 
-<img src="https://github.com/Tophness/dalle-mini-GUI/raw/main/img/sc.jpg">
+<img src="https://github.com/Tophness/dalle-mini-GUI/raw/main/img/sc.jpg?raw=true">
 
 ## About
 
