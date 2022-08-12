@@ -5,7 +5,8 @@
 ## About
 
 The original dall-e mini requires linux and runs on a web server.
-This one gives you a desktop app you can run on Windows.
+
+This one is a desktop app you can run on Windows.
 
 ## How to use it?
 
